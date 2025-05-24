@@ -1,4 +1,7 @@
 # 🏛 Ravenville — Publishing Repository
+[![License](https://img.shields.io/badge/license-CC--BY--NC--ND%204.0-blue)](/LICENSE.md)
+[![Ravenville](https://img.shields.io/badge/Ravenville-red.svg)](https://www.ravenville.io/)
+[![Remo Tessari](https://img.shields.io/badge/Remo-Tessari-red.svg)](https://www.remotessari.com/)
 
 This repository contains the public voice of **Ravenville** — mythic insights, company storytelling, and narrative design from an anti-corporate realm.
 
@@ -24,4 +27,4 @@ It includes blog posts, video scripts, and social media content — **aligned wi
 
 ## 🔁 Related Canon
 
-- 🔥 `flame-architecture` — For mythic source documents and founder canon
+- 🔥 [flame-architecture](https://github.com/Ravenville-io/flame-architecture) — For mythic source documents and founder canon
